@@ -1,0 +1,25 @@
+body {
+  background: #141414;
+  color: #ffffff;
+}
+
+.row {
+  overflow-x: auto;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.SearchBar {
+  display: flex;
+  justify-content: center;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+.addButton {
+  height: 40px;
+  width: 40px;
+}
